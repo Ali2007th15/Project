@@ -28,7 +28,7 @@ class Vocabulary
             Console.WriteLine("5. Delete a word or translation");
             Console.WriteLine("6. Find a translation");
             Console.WriteLine("7. Export the dictionary");
-            Console.WriteLine("8. Exit the application");
+            Console.WriteLine("8. Exit the program");
 
             string choice = Console.ReadLine();
 
