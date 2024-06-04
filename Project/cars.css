@@ -1,0 +1,132 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:  #0077be;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.badge {
+    background-color: #dddddd;
+    color: white;
+    padding: 3px 7px;
+    border-radius: 3px;
+    font-size: 0.8em;
+}
+
+.badge2 {
+    background-color: #eab301;
+    color: white;
+    padding: 3px 7px;
+    border-radius: 3px;
+    font-size: 0.8em;
+}
+
+.badge3 {
+    background-color: #0077be;
+    color: white;
+    padding: 3px 7px;
+    border-radius: 3px;
+    font-size: 0.8em;
+}
+
+.badge4 {
+    background-color: hsl(0, 96%, 42%);
+    color: white;
+    padding: 3px 7px;
+    border-radius: 3px;
+    font-size: 0.8em;
+}
+
+main {
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+    background-color: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.car-details img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.car-details .carousel {
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+    margin-bottom: 20px;
+}
+
+.car-details .carousel img {
+    width: 100px;
+    height: auto;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.car-info {
+    text-align: left;
+}
+
+.car-info .price {
+    font-size: 2em;
+    color: #333;
+    margin: 0;
+}
+
+.car-info h2 {
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+
+.car-info p {
+    color: #000000;
+    margin: 5px 0;
+}
+
+.car-specs {
+    margin-top: 20px;
+}
+
+.car-specs table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.car-specs table, .car-specs th, .car-specs td {
+    border: 1px solid #ddd;
+}
+
+.car-specs th, .car-specs td {
+    padding: 10px;
+    text-align: left;
+}
+
+.car-specs th {
+    background-color: #f4f4f4;
+}
+
+footer {
+    background-color: #0077be;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
