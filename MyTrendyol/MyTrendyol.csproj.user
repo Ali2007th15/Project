@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\AddAdminSuperAdminView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AddProductAdminView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AddProductSuperAdminView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AddUserSuperAdminView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AdminView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BalanceView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BuyProductView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\CancelOrderView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ForgotPasswordView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\LoginView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MyAccountView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\OrderHistoryView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\PayView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ProductCountView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\RegisterView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\RemoveAdminSuperAdminView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\RemoveProductAdminView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\RemoveProductSuperAdminView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\RemoveUserSuperAdminView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SuperAdminView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Views\AddAdminSuperAdminView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AddProductAdminView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AddProductSuperAdminView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AddUserSuperAdminView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AdminView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BalanceView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BuyProductView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\CancelOrderView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ForgotPasswordView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\LoginView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MyAccountView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\OrderHistoryView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\PayView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ProductCountView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\RegisterView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\RemoveAdminSuperAdminView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\RemoveProductAdminView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\RemoveProductSuperAdminView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\RemoveUserSuperAdminView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SuperAdminView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

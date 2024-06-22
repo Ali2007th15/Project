@@ -1,0 +1,54 @@
+﻿<UserControl x:Class="MyTrendyol.Views.BalanceView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MyTrendyol.Views" xmlns:viewmodels="clr-namespace:MyTrendyol.ViewModels" d:DataContext="{d:DesignInstance Type=viewmodels:BalanceViewModel}"
+             mc:Ignorable="d" 
+             xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+             Background="White"
+             d:DesignHeight="1080" d:DesignWidth="1920">
+    <Grid>
+        <TextBlock
+    Text="Balance"
+    FontSize="33"
+    TextAlignment="Center"
+    FontWeight="Bold"
+    Margin="695,101,681,847"
+    FontFamily="SF UI Display Normal"/>
+
+        <Image
+        Source="../Assets/Wallet.png" Margin="509,362,850,413"/>
+        <TextBlock
+    FontSize="54"
+    Margin="990,455,670,514">
+    <Run Text="{Binding Balance}"
+         Foreground="Black"/>
+    <Run Text="₼"
+         Foreground="Black"/>
+        </TextBlock>
+
+        <Button
+            Command="{Binding Pay}"
+            Width="200"
+            Height="50"
+            Content="Pay balance"
+            Background="Black"
+            BorderBrush="Black"
+            FontSize="20"
+            Margin="-5,0,0,-600"
+            md:ButtonAssist.CornerRadius="15"
+            />
+
+        <Button
+          Command="{Binding Back}"
+          Content="Go Back?"
+          Background="Transparent"
+          BorderBrush="Transparent"
+          Foreground="Black"
+          Width="180"
+          FontSize="25"
+          FontFamily="SF UI Display Normal"
+          Margin="863,833,877,127"/>
+    </Grid>
+</UserControl>

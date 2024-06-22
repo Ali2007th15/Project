@@ -1,0 +1,68 @@
+﻿<UserControl x:Class="MyTrendyol.Views.RemoveUserSuperAdminView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MyTrendyol.Views"
+             xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+             Background="White"
+             d:DesignHeight="1080" d:DesignWidth="1920">
+    <Grid>
+        <TextBlock
+      Text="Remove User"
+      FontWeight="Bold"
+      FontSize="80" Margin="717,0,457,902"
+      Foreground="Black"/>
+        <ListBox
+      ItemsSource="{Binding Users}"
+            SelectedItem="{Binding SelectedUsers}"
+      SelectionMode="Single"
+      FontSize="17" FontWeight="Bold" Margin="82,143,71,272">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <DockPanel>
+                        <StackPanel 
+                 Grid.Row="1">
+                            <Label Content="ID User: "/>
+                            <Label Content="Name: "/>
+                            <Label Content="Surname: "/>
+                            <Label Content="Mail address: "/>
+                            <Label Content="Phone number: "/>
+                        </StackPanel>
+                        <StackPanel
+                 Grid.Row="1">
+                            <Label Content="{Binding UserId}"/>
+                            <Label Content="{Binding Name}"/>
+                            <Label Content="{Binding Surname}"/>
+                            <Label Content="{Binding Email}"/>
+                            <Label Content="{Binding Phone}"/>
+
+                        </StackPanel>
+                    </DockPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button
+    Command="{Binding Remove}"
+    Width="200"
+    Height="50"
+    Content="Remove User"
+    Background="Red"
+    BorderBrush="Red"
+    FontSize="20"
+    Margin="-5,0,0,-700"
+    md:ButtonAssist.CornerRadius="15"
+    />
+        <Button
+   Command="{Binding Back}"
+   Content="Go Back?"
+   Background="Transparent"
+   BorderBrush="Transparent"
+   Foreground="Black"
+   Width="180"
+   FontSize="25"
+   FontFamily="SF UI Display Normal"
+   Margin="863,833,877,20"/>
+    </Grid>
+</UserControl>

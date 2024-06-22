@@ -1,0 +1,66 @@
+﻿<UserControl x:Class="MyTrendyol.Views.ProductCountView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MyTrendyol.Views"
+             xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes" xmlns:viewmodels="clr-namespace:MyTrendyol.ViewModels" d:DataContext="{d:DesignInstance Type=viewmodels:ProductCountViewModel}"
+             mc:Ignorable="d" 
+             Background="White"
+             d:DesignHeight="1080" d:DesignWidth="1920">
+    <Grid>
+        <TextBlock
+        Text="Product Count"
+        FontSize="33"
+        TextAlignment="Center"
+        FontWeight="Bold"
+        Margin="695,101,681,847"
+        FontFamily="SF UI Display Normal"/>
+        <TextBox
+      md:TextFieldAssist.UnderlineBrush="#000"
+      Text="{Binding Count}"
+      md:TextFieldAssist.TextFieldCornerRadius="25"
+      Margin="773,465,775,520"
+      Foreground="Black"
+      FontFamily="SF UI Display Normal"
+      Background="#fff"
+      SelectionBrush="#000"
+      SelectionTextBrush="#000"
+      SelectedText="#f27a1a"
+      FontSize="16"       
+  Style="{DynamicResource MaterialDesignOutlinedTextBox}">
+            <md:HintAssist.Hint>
+                <TextBlock
+        FontSize="20"
+        Text="Enter the amount product..."
+        FontFamily="SF UI Display Normal"
+        Foreground="Black"
+        Style="{DynamicResource MaterialDesignButtonTextBlock}" Width="333" Height="33"/>
+            </md:HintAssist.Hint>
+        </TextBox>
+
+        <Button
+        Command="{Binding BuyProduct}"
+        Width="200"
+        Height="50"
+        Content="Buy Product"
+        Background="Black"
+        BorderBrush="Black"
+        FontSize="20"
+        Margin="-5,0,0,-100"
+        md:ButtonAssist.CornerRadius="15"
+/>
+        <Button
+        Command="{Binding Back}"
+        Width="200"
+        Height="50"
+        Content="Go Back?"
+        Background="Transparent"
+        BorderBrush="Transparent"
+        Foreground="Black"
+        FontSize="20"
+        Margin="-5,0,0,-200"
+        md:ButtonAssist.CornerRadius="15"
+/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,918 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\adminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\adminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\models\\radiobuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:models\\radiobuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\productcountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\productcountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\buyproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\buyproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\balanceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\balanceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\services\\classes\\addcargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:services\\classes\\addcargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\addproductadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\addproductadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\services\\interfaces\\iaddcargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:services\\interfaces\\iaddcargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\removeadminsuperadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\removeadminsuperadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\removeusersuperadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\removeusersuperadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\removeadminsuperadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\removeadminsuperadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\removeusersuperadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\removeusersuperadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\removeproductsuperadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\removeproductsuperadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\superadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\superadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\superadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\superadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\removeproductsuperadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\removeproductsuperadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\productcountview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\productcountview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\cancelorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\cancelorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\models\\productsfororder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:models\\productsfororder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\removeproductadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\removeproductadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\removeproductadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\removeproductadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\addproductadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\addproductadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\addproductsuperadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\addproductsuperadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\addproductsuperadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\addproductsuperadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\addadminsuperadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\addadminsuperadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\addusersuperadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\addusersuperadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\addusersuperadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\addusersuperadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\registerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\registerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\cancelorderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\cancelorderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\buyproductview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\buyproductview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\addadminsuperadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\addadminsuperadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\payviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\payviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\payview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\payview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\myaccountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\myaccountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\orderhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\orderhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\viewmodels\\balanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:viewmodels\\balanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\orderhistoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\orderhistoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\myaccountview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\myaccountview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\contexts\\trendyoldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:contexts\\trendyoldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\services\\interfaces\\iaddorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:services\\interfaces\\iaddorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\services\\classes\\addorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:services\\classes\\addorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|c:\\users\\admin\\desktop\\trendyolprojectforali\\mytrendyol\\migrations\\20240620001613_fix4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D694C7B8-4415-4A62-8403-C5911A07744D}|MyTrendyol.csproj|solutionrelative:migrations\\20240620001613_fix4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:15:53.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RemoveAdminSuperAdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\RemoveAdminSuperAdminViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RemoveAdminSuperAdminViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\RemoveAdminSuperAdminViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RemoveAdminSuperAdminViewModel.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAswEEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:12:06.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RemoveUserSuperAdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\RemoveUserSuperAdminViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RemoveUserSuperAdminViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\RemoveUserSuperAdminViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RemoveUserSuperAdminViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:12:47.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AdminViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\AdminViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AdminViewModel.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:36:15.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\AdminView.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\AdminView.xaml",
+              "RelativeToolTip": "Views\\AdminView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T23:32:15.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BalanceView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\BalanceView.xaml",
+              "RelativeDocumentMoniker": "Views\\BalanceView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\BalanceView.xaml",
+              "RelativeToolTip": "Views\\BalanceView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T23:19:14.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwCAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:19:50.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCountViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\ProductCountViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProductCountViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\ProductCountViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ProductCountViewModel.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAvwIIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:57:59.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RadioButtons.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Models\\RadioButtons.cs",
+              "RelativeDocumentMoniker": "Models\\RadioButtons.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Models\\RadioButtons.cs",
+              "RelativeToolTip": "Models\\RadioButtons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:34:30.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuyProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\BuyProductViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BuyProductViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\BuyProductViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BuyProductViewModel.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEMAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:44:21.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddProductAdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\AddProductAdminViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AddProductAdminViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\AddProductAdminViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AddProductAdminViewModel.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAswHsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:11:50.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddCargoService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Services\\Classes\\AddCargoService.cs",
+              "RelativeDocumentMoniker": "Services\\Classes\\AddCargoService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Services\\Classes\\AddCargoService.cs",
+              "RelativeToolTip": "Services\\Classes\\AddCargoService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:08:26.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAddCargoService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Services\\Interfaces\\IAddCargoService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAddCargoService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Services\\Interfaces\\IAddCargoService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAddCargoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:08:22.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RemoveAdminSuperAdminView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\RemoveAdminSuperAdminView.xaml",
+              "RelativeDocumentMoniker": "Views\\RemoveAdminSuperAdminView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\RemoveAdminSuperAdminView.xaml",
+              "RelativeToolTip": "Views\\RemoveAdminSuperAdminView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T12:10:26.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:02:06.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RemoveUserSuperAdminView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\RemoveUserSuperAdminView.xaml",
+              "RelativeDocumentMoniker": "Views\\RemoveUserSuperAdminView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\RemoveUserSuperAdminView.xaml",
+              "RelativeToolTip": "Views\\RemoveUserSuperAdminView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T12:10:53.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RemoveProductSuperAdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\RemoveProductSuperAdminViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RemoveProductSuperAdminViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\RemoveProductSuperAdminViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RemoveProductSuperAdminViewModel.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:12:33.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SuperAdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\SuperAdminViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\SuperAdminViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\SuperAdminViewModel.cs",
+              "RelativeToolTip": "ViewModels\\SuperAdminViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:03:11.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SuperAdminView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\SuperAdminView.xaml",
+              "RelativeDocumentMoniker": "Views\\SuperAdminView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\SuperAdminView.xaml",
+              "RelativeToolTip": "Views\\SuperAdminView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T12:03:45.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RemoveProductSuperAdminView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\RemoveProductSuperAdminView.xaml",
+              "RelativeDocumentMoniker": "Views\\RemoveProductSuperAdminView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\RemoveProductSuperAdminView.xaml",
+              "RelativeToolTip": "Views\\RemoveProductSuperAdminView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T12:10:00.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductCountView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\ProductCountView.xaml",
+              "RelativeDocumentMoniker": "Views\\ProductCountView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\ProductCountView.xaml",
+              "RelativeToolTip": "Views\\ProductCountView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T23:57:35.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductsForOrder.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Models\\ProductsForOrder.cs",
+              "RelativeDocumentMoniker": "Models\\ProductsForOrder.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Models\\ProductsForOrder.cs",
+              "RelativeToolTip": "Models\\ProductsForOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:51:35.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:09:08.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RemoveProductAdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\RemoveProductAdminViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RemoveProductAdminViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\RemoveProductAdminViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RemoveProductAdminViewModel.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAswEUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:16:28.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CancelOrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\CancelOrderViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CancelOrderViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\CancelOrderViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CancelOrderViewModel.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:25:10.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RemoveProductAdminView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\RemoveProductAdminView.xaml",
+              "RelativeDocumentMoniker": "Views\\RemoveProductAdminView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\RemoveProductAdminView.xaml",
+              "RelativeToolTip": "Views\\RemoveProductAdminView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T12:15:49.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddProductAdminView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\AddProductAdminView.xaml",
+              "RelativeDocumentMoniker": "Views\\AddProductAdminView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\AddProductAdminView.xaml",
+              "RelativeToolTip": "Views\\AddProductAdminView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T12:09:30.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddProductSuperAdminView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\AddProductSuperAdminView.xaml",
+              "RelativeDocumentMoniker": "Views\\AddProductSuperAdminView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\AddProductSuperAdminView.xaml",
+              "RelativeToolTip": "Views\\AddProductSuperAdminView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T12:05:31.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddProductSuperAdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\AddProductSuperAdminViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AddProductSuperAdminViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\AddProductSuperAdminViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AddProductSuperAdminViewModel.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAJcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:05:58.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddAdminSuperAdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\AddAdminSuperAdminViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AddAdminSuperAdminViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\AddAdminSuperAdminViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AddAdminSuperAdminViewModel.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAswFIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:06:57.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAKoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:22:34.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddUserSuperAdminView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\AddUserSuperAdminView.xaml",
+              "RelativeDocumentMoniker": "Views\\AddUserSuperAdminView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\AddUserSuperAdminView.xaml",
+              "RelativeToolTip": "Views\\AddUserSuperAdminView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T12:07:15.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddUserSuperAdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\AddUserSuperAdminViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AddUserSuperAdminViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\AddUserSuperAdminViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AddUserSuperAdminViewModel.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAswJ0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:07:25.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RegisterView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\RegisterView.xaml",
+              "RelativeDocumentMoniker": "Views\\RegisterView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\RegisterView.xaml",
+              "RelativeToolTip": "Views\\RegisterView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T00:31:45.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CancelOrderView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\CancelOrderView.xaml",
+              "RelativeDocumentMoniker": "Views\\CancelOrderView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\CancelOrderView.xaml",
+              "RelativeToolTip": "Views\\CancelOrderView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T00:24:55.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BuyProductView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\BuyProductView.xaml",
+              "RelativeDocumentMoniker": "Views\\BuyProductView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\BuyProductView.xaml",
+              "RelativeToolTip": "Views\\BuyProductView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T23:44:03.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddAdminSuperAdminView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\AddAdminSuperAdminView.xaml",
+              "RelativeDocumentMoniker": "Views\\AddAdminSuperAdminView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\AddAdminSuperAdminView.xaml",
+              "RelativeToolTip": "Views\\AddAdminSuperAdminView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T12:06:48.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:21:59.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PayView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\PayView.xaml",
+              "RelativeDocumentMoniker": "Views\\PayView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\PayView.xaml",
+              "RelativeToolTip": "Views\\PayView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T23:16:41.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PayViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\PayViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\PayViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\PayViewModel.cs",
+              "RelativeToolTip": "ViewModels\\PayViewModel.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwEwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:22:22.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ForgotPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\ForgotPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ForgotPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\ForgotPasswordViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ForgotPasswordViewModel.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:16:18.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:36:39.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MyAccountViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\MyAccountViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MyAccountViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\MyAccountViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MyAccountViewModel.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:22:36.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderHistoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\OrderHistoryViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\OrderHistoryViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\OrderHistoryViewModel.cs",
+              "RelativeToolTip": "ViewModels\\OrderHistoryViewModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwCYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:31:06.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:22:24.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BalanceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\BalanceViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BalanceViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\ViewModels\\BalanceViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BalanceViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:19:21.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T23:45:14.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "OrderHistoryView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\OrderHistoryView.xaml",
+              "RelativeDocumentMoniker": "Views\\OrderHistoryView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\OrderHistoryView.xaml",
+              "RelativeToolTip": "Views\\OrderHistoryView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T23:31:00.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MyAccountView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\MyAccountView.xaml",
+              "RelativeDocumentMoniker": "Views\\MyAccountView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\MyAccountView.xaml",
+              "RelativeToolTip": "Views\\MyAccountView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T23:16:43.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240620001613_FIX4.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Migrations\\20240620001613_FIX4.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240620001613_FIX4.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Migrations\\20240620001613_FIX4.cs",
+              "RelativeToolTip": "Migrations\\20240620001613_FIX4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:16:13.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IAddOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Services\\Interfaces\\IAddOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAddOrderService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Services\\Interfaces\\IAddOrderService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAddOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:07:47.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TrendyolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Contexts\\TrendyolDbContext.cs",
+              "RelativeDocumentMoniker": "Contexts\\TrendyolDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Contexts\\TrendyolDbContext.cs",
+              "RelativeToolTip": "Contexts\\TrendyolDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:52:16.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AddOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Services\\Classes\\AddOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\Classes\\AddOrderService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Services\\Classes\\AddOrderService.cs",
+              "RelativeToolTip": "Services\\Classes\\AddOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:52:02.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "Views\\MainView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\MainView.xaml",
+              "RelativeToolTip": "Views\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T23:30:46.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T23:38:49.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Views\\LoginView.xaml",
+              "RelativeToolTip": "Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T23:17:42.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\TrendyolProjectForAli\\MyTrendyol\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:14:45.486Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

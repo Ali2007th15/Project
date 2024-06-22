@@ -1,0 +1,174 @@
+﻿<UserControl x:Class="MyTrendyol.Views.AddProductAdminView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MyTrendyol.Views"
+             xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+             Background="White"
+             d:DesignHeight="1080" d:DesignWidth="1920">
+    <Grid>
+        <TextBlock
+         Text="Add Product"
+         FontWeight="Bold"
+         FontSize="80" Margin="717,0,457,902"
+         Foreground="Black"/>
+
+        <TextBox
+  md:TextFieldAssist.UnderlineBrush="#000"
+  Text="{Binding Name}"
+  md:TextFieldAssist.TextFieldCornerRadius="25"
+  Margin="773,465,775,520"
+  Foreground="Black"
+  FontFamily="SF UI Display Normal"
+  Background="#fff"
+  SelectionBrush="#000"
+  SelectionTextBrush="#000"
+  SelectedText="#f27a1a"
+  FontSize="16"       
+  Style="{DynamicResource MaterialDesignOutlinedTextBox}">
+            <md:HintAssist.Hint>
+                <TextBlock
+        FontSize="20"
+        Text="Enter the product name..."
+        FontFamily="SF UI Display Normal"
+        Foreground="Black"
+        Style="{DynamicResource MaterialDesignButtonTextBlock}" Width="333" Height="33"/>
+            </md:HintAssist.Hint>
+        </TextBox>
+
+        <TextBox
+md:TextFieldAssist.UnderlineBrush="#000"
+Text="{Binding Description}"
+md:TextFieldAssist.TextFieldCornerRadius="25"
+Margin="773,521,775,464"
+Foreground="Black"
+FontFamily="SF UI Display Normal"
+Background="#fff"
+SelectionBrush="#000"
+SelectionTextBrush="#000"
+SelectedText="#f27a1a"
+FontSize="16"       
+Style="{DynamicResource MaterialDesignOutlinedTextBox}">
+            <md:HintAssist.Hint>
+                <TextBlock
+      FontSize="20"
+      Text="Enter description..."
+      FontFamily="SF UI Display Normal"
+      Foreground="Black"
+      Style="{DynamicResource MaterialDesignButtonTextBlock}" Width="333" Height="33"/>
+            </md:HintAssist.Hint>
+        </TextBox>
+
+        <TextBox
+md:TextFieldAssist.UnderlineBrush="#000"
+Text="{Binding Price}"
+md:TextFieldAssist.TextFieldCornerRadius="25"
+Margin="773,575,775,410"
+Foreground="Black"
+FontFamily="SF UI Display Normal"
+Background="#fff"
+SelectionBrush="#000"
+SelectionTextBrush="#000"
+SelectedText="#f27a1a"
+FontSize="16"       
+Style="{DynamicResource MaterialDesignOutlinedTextBox}">
+            <md:HintAssist.Hint>
+                <TextBlock
+      FontSize="20"
+      Text="Enter price..."
+      FontFamily="SF UI Display Normal"
+      Foreground="Black"
+      Style="{DynamicResource MaterialDesignButtonTextBlock}" Width="333" Height="33"/>
+            </md:HintAssist.Hint>
+        </TextBox>
+
+        <TextBox
+md:TextFieldAssist.UnderlineBrush="#000"
+Text="{Binding Count}"
+md:TextFieldAssist.TextFieldCornerRadius="25"
+Margin="773,629,775,356"
+Foreground="Black"
+FontFamily="SF UI Display Normal"
+Background="#fff"
+SelectionBrush="#000"
+SelectionTextBrush="#000"
+SelectedText="#f27a1a"
+FontSize="16"       
+Style="{DynamicResource MaterialDesignOutlinedTextBox}">
+            <md:HintAssist.Hint>
+                <TextBlock
+      FontSize="20"
+      Text="Enter count..."
+      FontFamily="SF UI Display Normal"
+      Foreground="Black"
+      Style="{DynamicResource MaterialDesignButtonTextBlock}" Width="333" Height="33"/>
+            </md:HintAssist.Hint>
+        </TextBox>
+
+        <TextBox
+md:TextFieldAssist.UnderlineBrush="#000"
+Text="{Binding Category}"
+md:TextFieldAssist.TextFieldCornerRadius="25"
+Margin="773,681,775,304"
+Foreground="Black"
+FontFamily="SF UI Display Normal"
+Background="#fff"
+SelectionBrush="#000"
+SelectionTextBrush="#000"
+SelectedText="#f27a1a"
+FontSize="16"       
+Style="{DynamicResource MaterialDesignOutlinedTextBox}">
+            <md:HintAssist.Hint>
+                <TextBlock
+      FontSize="20"
+      Text="Enter category..."
+      FontFamily="SF UI Display Normal"
+      Foreground="Black"
+      Style="{DynamicResource MaterialDesignButtonTextBlock}" Width="333" Height="33"/>
+            </md:HintAssist.Hint>
+        </TextBox>
+
+        <Image
+     Source="{Binding ImageBox}"
+     Name="selectedImage"
+     Width="158"
+     Height="205"
+     Margin="1176,512,646,362"/>
+
+        <Button
+        Command="{Binding Image}"
+        Width="300"
+        Height="50"
+        Content="Choice image"
+        Background="Black"
+        BorderBrush="Black"
+        FontSize="20"
+        Margin="-5,0,0,-530"
+        md:ButtonAssist.CornerRadius="15"
+        />
+
+        <Button
+        Command="{Binding Add}"
+        Width="300"
+        Height="50"
+        Content="Add product"
+        Background="Black"
+        BorderBrush="Black"
+        FontSize="20"
+        Margin="-5,0,0,-640"
+        md:ButtonAssist.CornerRadius="15"
+        />
+        <Button
+       Command="{Binding Back}"
+       Content="Go Back?"
+       Background="Transparent"
+       BorderBrush="Transparent"
+       Foreground="Black"
+       Width="180"
+       FontSize="25"
+       FontFamily="SF UI Display Normal"
+       Margin="863,833,877,70"/>
+    </Grid>
+</UserControl>
